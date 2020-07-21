@@ -1,18 +1,14 @@
 ### Hi there 
-
 <html>
-<div style="font-family:Georgia; font-size:2.5vw; color:lightblue; font-weight:normal; text-align:center; background:url('https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/demo/demo.gif') no-repeat center; background-size:cover)">
-<br><br>
-Oriented FAST and Rotated BRIEF (ORB)
-<br><br><br>
+<body>
+
+<div style="border: 5px outset red;background-color: lightblue;text-align: center;">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
 </div>
 
-
-
-
+</body>
 </html>
-
-![](demo/demo.gif)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

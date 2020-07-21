@@ -1,14 +1,10 @@
 ### Hi there 
-<html>
-<body>
 
-<div style="border: 5px outset red;background-color: lightblue;text-align: center;">
+
+<p style="border: 5px outset red;background-color: lightblue;text-align: center;">
   <h2>This is a heading in a div element</h2>
   <p>This is some text in a div element.</p>
-</div>
-
-</body>
-</html>
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

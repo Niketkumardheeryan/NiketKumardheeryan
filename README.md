@@ -1,6 +1,6 @@
 ## Hi there 
-<p align="center">
- <img src="https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/Image%202020-07-27.jpeg"  style="width:20px;height:25px; ">
+<p align="center; style="width:20px;height:25px;">
+ <img src="https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/Image%202020-07-27.jpeg" >
  </P>
 
 <p align="center">

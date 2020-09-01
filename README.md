@@ -1,7 +1,5 @@
 ## Hi there 
-<p align="center; style="width:20px;height:25px;">
- <img src="https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/Image%202020-07-27.jpeg" >
- </P>
+
 
 <p align="center">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">

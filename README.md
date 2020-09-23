@@ -1,4 +1,6 @@
-## Hi there 
+## Hi there,
+### I'm niket CS engineer, Pursuing B.tech
+### Interest ->> Deep learning ,ML, Blockchain,Computer vision & ........
 
 
 <p align="center">

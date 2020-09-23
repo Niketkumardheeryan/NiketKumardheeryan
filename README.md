@@ -1,5 +1,5 @@
 ## Hi there,
-### I'm niket CS engineer, Pursuing B.tech
+### I'm Niket CS Engineer.
 ### Interest ->> Deep learning ,ML, Blockchain,Computer vision & ........
 
 

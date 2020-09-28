@@ -1,6 +1,5 @@
 ## Hi there,
-### I'm Niket CS Engineer.
-### Interest ->> Deep learning ,ML, Blockchain,Computer vision & ........
+### I'm Niket.
 <img src="https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/Blue%20Purple%20Green.jpg" width="600">
 
 

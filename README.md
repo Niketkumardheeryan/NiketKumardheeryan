@@ -1,6 +1,6 @@
 ## Hi there,
 ### I'm Niket.
-<img src="https://github.com/Niketkumardheeryan/NiketKumardheeryan/blob/master/Blue%20Purple%20Green.jpg" width="600">
+<img src="" width="600">
 
 
 

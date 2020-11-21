@@ -1,6 +1,6 @@
 
 ### I'm Niket.
-* A computer program does what you tell it to do, not what you want it to do.
+<p> &#128509 computer program does what you tell it to do, not what you want it to do.</p>
 
 
 <img src="" width="600">

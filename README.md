@@ -1,5 +1,8 @@
   <p>Hi &#128075; ,I'm Niket &#128374; </p>
-<p> &#128394 computer program does what you tell it to do, not what you want it to do.</p>
+<p> &#128394 Day dreaming with Python.</p>
+<p>Machine learning Lover </>
+<p>Helping the community by contributing to open source Projects</p>  
+
 
 
 <img src="" width="600">

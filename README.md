@@ -19,6 +19,15 @@
 
 <p>🚀 I love building things, solving problems, and collaborating with the community to bring meaningful projects to life!</p>
 
+<!-- Most Starred Project Section -->
+<h2>⭐ Most Popular Project</h2>
+<p align="left">
+  <a href="https://github.com/NiketKumardheeryan/ML-Capsule">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiketKumardheeryan&repo=ML-Capsule&theme=radical" alt="ML Capsule" />
+  </a>
+</p>
+<p>🔗 Check out my most popular project, <a href="https://github.com/NiketKumardheeryan/ML-Capsule">ML Capsule</a>, a machine learning library that simplifies and streamlines the development process.</p>
+
 <!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiketKumardheeryan&show_icons=true&theme=radical" alt="Niket's GitHub Stats" />

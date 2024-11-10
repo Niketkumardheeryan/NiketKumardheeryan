@@ -29,7 +29,7 @@
 <!-- Social Media Icons -->
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/niketkumardheeryan/)/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/niketkumardheeryan/)/](https://www.linkedin.com/in/niketkumardheeryan)"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/NiketKumardheeryan"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your-nkdheeryan01@example.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/dheeryanniket"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

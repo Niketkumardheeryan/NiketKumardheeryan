@@ -125,12 +125,6 @@
 
 # 🏆 Featured Projects
 
-### 🔹 Mutual Fund Recommendation System
-AI-powered recommendation engine using Java, Spring Boot and GPT models.
-
-### 🔹 HDFC Mutual Fund Backend Services
-Scalable APIs, SQL optimization, Jenkins deployments and CI/CD pipelines.
-
 ### 🔹 ML Capsule
 Reusable Machine Learning utilities and components.
 
